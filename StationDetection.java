@@ -57,7 +57,6 @@ class AutonomousVehicle {
                 System.out.println("Charging station detected!");
                 vehicle.alignToStation(stationX, stationY);
                 // Code to navigate to the station and charge
-                // Implement your navigation and charging logic here
             }
         }
     }
